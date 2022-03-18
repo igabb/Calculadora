@@ -1,2 +1,4 @@
 # Calculadora
-Minha primeira calculadora
+Criand minha primeira calculadora
+
+Creating my first calculator
