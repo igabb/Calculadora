@@ -3,4 +3,4 @@ Criand minha primeira calculadora
 
 Creating my first calculator
 
-Font: Gustava Neitzke
+Font: Gustavo Neitzke
