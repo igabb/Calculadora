@@ -1,5 +1,5 @@
 # Calculadora
-Criand minha primeira calculadora
+Criando minha primeira calculadora
 
 Creating my first calculator
 
